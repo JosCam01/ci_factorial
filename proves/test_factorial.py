@@ -1,5 +1,5 @@
 import pytest
-import funcio_factorial
+import src.funcio_factorial as funcio_factorial
 
 
 def test_factorial_de_1():
