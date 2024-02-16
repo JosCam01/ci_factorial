@@ -1,5 +1,5 @@
 import pytest
-from ci_factorial.src.funcio_factorial import factorial
+from src.funcio_factorial import factorial
 
 
 def test_factorial_de_1():
